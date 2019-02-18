@@ -98,5 +98,7 @@ return [
             'expire' => 60,
         ],
     ],
-
+//
+//    'client_id' => env('WEB_CLIENT_ID'),
+//    'client_secret' => env('WEB_CLIENT_SECRET')
 ];
